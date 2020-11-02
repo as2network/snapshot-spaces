@@ -1,5 +1,4 @@
 {
-  "token": "0xCCf24F117acce3C138310412da44EA6236dda056",
   "name": "AmpleSense",
   "network": "1",
   "symbol": "kMPL",
@@ -19,7 +18,7 @@
         "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
         "symbol": "AMPL",
         "decimals": 9,
-        "coeff": 0.01
+        "coeff": 0.001
       }
     }
   ],
