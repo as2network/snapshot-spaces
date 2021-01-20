@@ -1,0 +1,27 @@
+{
+    "version": "0.1.3",
+    "timestamp": "1611128450",
+    "space": "as2network.eth",
+    "type": "settings",
+    "payload": {
+        "strategies": [{
+            "name": "erc20-balance-of",
+            "params": {
+                "symbol": "EDI",
+                "address": "0x79C5a1Ae586322A07BfB60be36E1b31CE8C84A1e",
+                "decimals": 18
+            }
+        }],
+        "filters": {
+            "onlyMembers": true,
+            "minScore": 1,
+              "defaultTab": "all",
+        },
+        "domain": "as2.network",
+        "network": "1",
+        "name": "AS2 Network",
+        "skin": "benchmark",
+        "symbol": "EDI",
+        "members": ["0xC409821F6c72563590E4cd7F76A820e37A03B836"]
+    }
+}
